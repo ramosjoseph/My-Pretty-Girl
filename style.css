@@ -19,7 +19,7 @@ p {
   font-size: 1.5em;
   letter-spacing: -0.05em;
   line-height: 0.7em;
-  background: url("C:/Users/Admin/Downloads/k.jpg"), url("C:/Users/Admin/Downloads/k.jpg"); /* Use forward slashes for file paths */
+  background: url("k.jpg"), url("k.jpg"); /* Use forward slashes for file paths */
   background-blend-mode: color-dodge;
   background-position: center;
   background-attachment: fixed;
